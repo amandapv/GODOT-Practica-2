@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://bqomy61thwr2v"]
 
-[ext_resource type="Texture2D" uid="uid://80urdq3jwu2f" path="res://Rocky Roads/Enemies/slime_blue.png" id="1_2sc1u"]
+[ext_resource type="Texture2D" uid="uid://80urdq3jwu2f" path="res://Assets/Enemies/slime_blue.png" id="1_2sc1u"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_d6ec5"]
 size = Vector2(16, 10)
