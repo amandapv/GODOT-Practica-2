@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx5yks7vp8f72"
-path="res://.godot/imported/bullet.png-6fbf1b6945c8bf99e8bc818adce63662.ctex"
+path="res://.godot/imported/bullet.png-7bffb2862aef5325169b8e9c5381d2f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/bullet.png"
-dest_files=["res://.godot/imported/bullet.png-6fbf1b6945c8bf99e8bc818adce63662.ctex"]
+source_file="res://Sprites/Enemies/bullet.png"
+dest_files=["res://.godot/imported/bullet.png-7bffb2862aef5325169b8e9c5381d2f4.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

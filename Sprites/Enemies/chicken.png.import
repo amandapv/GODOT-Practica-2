@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmhgnhn0k15qr"
-path="res://.godot/imported/chicken.png-3b183496ed8c0795e707456da728f2d2.ctex"
+path="res://.godot/imported/chicken.png-67aeae75ca3fa9d7f8e2301d0ceba823.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/chicken.png"
-dest_files=["res://.godot/imported/chicken.png-3b183496ed8c0795e707456da728f2d2.ctex"]
+source_file="res://Sprites/Enemies/chicken.png"
+dest_files=["res://.godot/imported/chicken.png-67aeae75ca3fa9d7f8e2301d0ceba823.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

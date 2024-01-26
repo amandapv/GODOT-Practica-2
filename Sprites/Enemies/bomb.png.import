@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cer8kntx8lxl3"
-path="res://.godot/imported/bomb.png-26af9180e746b402c1117f83bb6d0d91.ctex"
+path="res://.godot/imported/bomb.png-00d180b1b0b259b8745d7514f5e4787c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/bomb.png"
-dest_files=["res://.godot/imported/bomb.png-26af9180e746b402c1117f83bb6d0d91.ctex"]
+source_file="res://Sprites/Enemies/bomb.png"
+dest_files=["res://.godot/imported/bomb.png-00d180b1b0b259b8745d7514f5e4787c.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

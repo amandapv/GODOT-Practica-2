@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbkg1m1ksf838"
-path="res://.godot/imported/wood_stakes.png-df177ff38fb710ceb62808d6ea6772ab.ctex"
+path="res://.godot/imported/wood_stakes.png-fbd519e5902c71fdb774235402a466a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/wood_stakes.png"
-dest_files=["res://.godot/imported/wood_stakes.png-df177ff38fb710ceb62808d6ea6772ab.ctex"]
+source_file="res://Sprites/Enemies/wood_stakes.png"
+dest_files=["res://.godot/imported/wood_stakes.png-fbd519e5902c71fdb774235402a466a7.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cr70i4s07fgff"
-path="res://.godot/imported/splash.png-da5fc6c23887194ac833c7842cb082af.ctex"
+path="res://.godot/imported/splash.png-56f6d91eb2740b13fef5c41b6573b072.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/splash.png"
-dest_files=["res://.godot/imported/splash.png-da5fc6c23887194ac833c7842cb082af.ctex"]
+source_file="res://Sprites/FX/splash.png"
+dest_files=["res://.godot/imported/splash.png-56f6d91eb2740b13fef5c41b6573b072.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

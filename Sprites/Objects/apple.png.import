@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ga0327d322x8"
-path="res://.godot/imported/apple.png-5d6673e43c9544a5e70f05a551421ba5.ctex"
+path="res://.godot/imported/apple.png-5662c1874a987b497769795b956d95e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/apple.png"
-dest_files=["res://.godot/imported/apple.png-5d6673e43c9544a5e70f05a551421ba5.ctex"]
+source_file="res://Sprites/Objects/apple.png"
+dest_files=["res://.godot/imported/apple.png-5662c1874a987b497769795b956d95e1.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

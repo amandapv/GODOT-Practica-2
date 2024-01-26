@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv0i2uls5clw0"
-path="res://.godot/imported/healthbar.png-e2e433fc88ab585e748aeb400de10773.ctex"
+path="res://.godot/imported/healthbar.png-4290cd89ae74aba4772a5b9eb8b71426.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/UI/healthbar.png"
-dest_files=["res://.godot/imported/healthbar.png-e2e433fc88ab585e748aeb400de10773.ctex"]
+source_file="res://Sprites/UI/healthbar.png"
+dest_files=["res://.godot/imported/healthbar.png-4290cd89ae74aba4772a5b9eb8b71426.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

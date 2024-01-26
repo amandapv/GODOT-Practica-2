@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yrma5gwphorj"
-path="res://.godot/imported/text_fx.png-0e27f8cbd6227f590f069e68122b45e5.ctex"
+path="res://.godot/imported/text_fx.png-46264d17a2cb22280ed1d81ab6e86304.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/UI/text_fx.png"
-dest_files=["res://.godot/imported/text_fx.png-0e27f8cbd6227f590f069e68122b45e5.ctex"]
+source_file="res://Sprites/UI/text_fx.png"
+dest_files=["res://.godot/imported/text_fx.png-46264d17a2cb22280ed1d81ab6e86304.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

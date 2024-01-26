@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crvto0bogbf4w"
-path="res://.godot/imported/heart.png-c8dce0eae2b09c189e629be885c731e2.ctex"
+path="res://.godot/imported/heart.png-3184aba42da9f4364bb9b3e77087df41.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/heart.png"
-dest_files=["res://.godot/imported/heart.png-c8dce0eae2b09c189e629be885c731e2.ctex"]
+source_file="res://Sprites/Objects/heart.png"
+dest_files=["res://.godot/imported/heart.png-3184aba42da9f4364bb9b3e77087df41.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

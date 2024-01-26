@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db043l8creigm"
-path="res://.godot/imported/snake.png-a12ef811938da140accdc2cfd5abfb73.ctex"
+path="res://.godot/imported/snake.png-d2227686be997bbf5ddbc891a0106563.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/snake.png"
-dest_files=["res://.godot/imported/snake.png-a12ef811938da140accdc2cfd5abfb73.ctex"]
+source_file="res://Sprites/Enemies/snake.png"
+dest_files=["res://.godot/imported/snake.png-d2227686be997bbf5ddbc891a0106563.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

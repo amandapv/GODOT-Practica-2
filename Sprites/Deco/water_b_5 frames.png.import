@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2o7t1d67metv"
-path="res://.godot/imported/water_b_5 frames.png-dbb9507889e228fd113131744380ac24.ctex"
+path="res://.godot/imported/water_b_5 frames.png-0f714346582103e2e1291d3015638ca2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Deco/water_b_5 frames.png"
-dest_files=["res://.godot/imported/water_b_5 frames.png-dbb9507889e228fd113131744380ac24.ctex"]
+source_file="res://Sprites/Deco/water_b_5 frames.png"
+dest_files=["res://.godot/imported/water_b_5 frames.png-0f714346582103e2e1291d3015638ca2.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

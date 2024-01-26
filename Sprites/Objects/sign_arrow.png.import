@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crunuthna662b"
-path="res://.godot/imported/sign_arrow.png-fbcadcf453f9d226012676e68fb776da.ctex"
+path="res://.godot/imported/sign_arrow.png-f8de08e6e99d40c75da6d9c1ea1de792.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/sign_arrow.png"
-dest_files=["res://.godot/imported/sign_arrow.png-fbcadcf453f9d226012676e68fb776da.ctex"]
+source_file="res://Sprites/Objects/sign_arrow.png"
+dest_files=["res://.godot/imported/sign_arrow.png-f8de08e6e99d40c75da6d9c1ea1de792.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

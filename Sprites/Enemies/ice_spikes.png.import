@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq4c4pki2cmd1"
-path="res://.godot/imported/ice_spikes.png-12d0f279580e0e459fc5f710bcc84e01.ctex"
+path="res://.godot/imported/ice_spikes.png-5dfdc521983a7df220d3f5e33ae6254b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/ice_spikes.png"
-dest_files=["res://.godot/imported/ice_spikes.png-12d0f279580e0e459fc5f710bcc84e01.ctex"]
+source_file="res://Sprites/Enemies/ice_spikes.png"
+dest_files=["res://.godot/imported/ice_spikes.png-5dfdc521983a7df220d3f5e33ae6254b.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

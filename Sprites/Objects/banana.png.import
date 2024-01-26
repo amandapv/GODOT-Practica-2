@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm0db2sdhsy7n"
-path="res://.godot/imported/banana.png-8fa44b497d3df442821f4bc7d1ba9e3d.ctex"
+path="res://.godot/imported/banana.png-efb982f5095e79b131bc68ebe9496435.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/banana.png"
-dest_files=["res://.godot/imported/banana.png-8fa44b497d3df442821f4bc7d1ba9e3d.ctex"]
+source_file="res://Sprites/Objects/banana.png"
+dest_files=["res://.godot/imported/banana.png-efb982f5095e79b131bc68ebe9496435.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

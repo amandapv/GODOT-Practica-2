@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2f3c6s03jaqu"
-path="res://.godot/imported/fireball.png-7c33108198907016621d71cc49de959b.ctex"
+path="res://.godot/imported/fireball.png-049fd37c658997193c907340cd07d50c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/fireball.png"
-dest_files=["res://.godot/imported/fireball.png-7c33108198907016621d71cc49de959b.ctex"]
+source_file="res://Sprites/Enemies/fireball.png"
+dest_files=["res://.godot/imported/fireball.png-049fd37c658997193c907340cd07d50c.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

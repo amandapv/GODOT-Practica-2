@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmeo5qhqf4lm4"
-path="res://.godot/imported/exclamation.png-a7bbe40aafeb423ed9d79666966816d9.ctex"
+path="res://.godot/imported/exclamation.png-b74b7bd4c0c10435728871eda3528d6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/exclamation.png"
-dest_files=["res://.godot/imported/exclamation.png-a7bbe40aafeb423ed9d79666966816d9.ctex"]
+source_file="res://Sprites/FX/exclamation.png"
+dest_files=["res://.godot/imported/exclamation.png-b74b7bd4c0c10435728871eda3528d6d.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

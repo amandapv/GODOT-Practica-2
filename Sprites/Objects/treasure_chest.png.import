@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ejtaj34mspkt"
-path="res://.godot/imported/treasure_chest.png-26171cc9b807c18cc439e25594a31af1.ctex"
+path="res://.godot/imported/treasure_chest.png-a4f6ecb278837ce96e6849cbf8b132e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/treasure_chest.png"
-dest_files=["res://.godot/imported/treasure_chest.png-26171cc9b807c18cc439e25594a31af1.ctex"]
+source_file="res://Sprites/Objects/treasure_chest.png"
+dest_files=["res://.godot/imported/treasure_chest.png-a4f6ecb278837ce96e6849cbf8b132e6.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

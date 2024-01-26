@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqxnhgy068ahe"
-path="res://.godot/imported/sign.png-020e07f4bd89825b0c345a4fdca72520.ctex"
+path="res://.godot/imported/sign.png-4b98c9a724b7219791ae1ba3549888a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/sign.png"
-dest_files=["res://.godot/imported/sign.png-020e07f4bd89825b0c345a4fdca72520.ctex"]
+source_file="res://Sprites/Objects/sign.png"
+dest_files=["res://.godot/imported/sign.png-4b98c9a724b7219791ae1ba3549888a1.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

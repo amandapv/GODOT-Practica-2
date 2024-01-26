@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgowa466gbyp8"
-path="res://.godot/imported/saw.png-ff9099a8e5760906e5765d813d53f52c.ctex"
+path="res://.godot/imported/saw.png-0bfa16799135a7ca756f7047245289b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/saw.png"
-dest_files=["res://.godot/imported/saw.png-ff9099a8e5760906e5765d813d53f52c.ctex"]
+source_file="res://Sprites/Enemies/saw.png"
+dest_files=["res://.godot/imported/saw.png-0bfa16799135a7ca756f7047245289b9.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

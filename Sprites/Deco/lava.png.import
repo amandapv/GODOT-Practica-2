@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfni3v0indsgl"
-path="res://.godot/imported/lava.png-69461bd9762a5b315b749626edf4af45.ctex"
+path="res://.godot/imported/lava.png-8372fa6a5fc7f84df1a6e1a93ac20460.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Deco/lava.png"
-dest_files=["res://.godot/imported/lava.png-69461bd9762a5b315b749626edf4af45.ctex"]
+source_file="res://Sprites/Deco/lava.png"
+dest_files=["res://.godot/imported/lava.png-8372fa6a5fc7f84df1a6e1a93ac20460.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tx7nx3ur5t0d"
-path="res://.godot/imported/tileset_lava.png-9b9742bf5ad233346742bf8383208551.ctex"
+path="res://.godot/imported/tileset_lava.png-d7c5cad710b1b233e8725697ddd5a97c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tilesets/tileset_lava.png"
-dest_files=["res://.godot/imported/tileset_lava.png-9b9742bf5ad233346742bf8383208551.ctex"]
+source_file="res://Sprites/Tilesets/tileset_lava.png"
+dest_files=["res://.godot/imported/tileset_lava.png-d7c5cad710b1b233e8725697ddd5a97c.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

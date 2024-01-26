@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bd8um420320fh"
-path="res://.godot/imported/key.png-ed3fd96ea031129cbbd563e1ba733908.ctex"
+path="res://.godot/imported/key.png-6cea8f759faabd9726d9d933cea2d6e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/key.png"
-dest_files=["res://.godot/imported/key.png-ed3fd96ea031129cbbd563e1ba733908.ctex"]
+source_file="res://Sprites/Objects/key.png"
+dest_files=["res://.godot/imported/key.png-6cea8f759faabd9726d9d933cea2d6e0.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4ya6e3nmp3up"
-path="res://.godot/imported/bear_brown.png-e37c92bcd11a2c7ad7f78d4a4d89356f.ctex"
+path="res://.godot/imported/bear_brown.png-62e36e23bc5b97ca4cd99b1031fffc42.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/bear_brown.png"
-dest_files=["res://.godot/imported/bear_brown.png-e37c92bcd11a2c7ad7f78d4a4d89356f.ctex"]
+source_file="res://Sprites/Enemies/bear_brown.png"
+dest_files=["res://.godot/imported/bear_brown.png-62e36e23bc5b97ca4cd99b1031fffc42.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://babsld7ke5xfk"
-path="res://.godot/imported/button.png-9de7741a5c8e9049b3d5c277ce869906.ctex"
+path="res://.godot/imported/button.png-789fd38615874ba2acbf43334405fc48.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/button.png"
-dest_files=["res://.godot/imported/button.png-9de7741a5c8e9049b3d5c277ce869906.ctex"]
+source_file="res://Sprites/Objects/button.png"
+dest_files=["res://.godot/imported/button.png-789fd38615874ba2acbf43334405fc48.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

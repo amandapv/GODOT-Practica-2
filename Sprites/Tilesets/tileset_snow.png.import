@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://j152p5yxaa4y"
-path="res://.godot/imported/tileset_snow.png-b90332b1e786b02873ab2d050e362a9f.ctex"
+path="res://.godot/imported/tileset_snow.png-391c1b6f81b7ed222b8bf869573d5f23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tilesets/tileset_snow.png"
-dest_files=["res://.godot/imported/tileset_snow.png-b90332b1e786b02873ab2d050e362a9f.ctex"]
+source_file="res://Sprites/Tilesets/tileset_snow.png"
+dest_files=["res://.godot/imported/tileset_snow.png-391c1b6f81b7ed222b8bf869573d5f23.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

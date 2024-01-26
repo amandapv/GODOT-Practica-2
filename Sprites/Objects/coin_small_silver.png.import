@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ck3ppv31uq38a"
-path="res://.godot/imported/coin_small_silver.png-b36ce7e099617d48ab6a692f584897fb.ctex"
+path="res://.godot/imported/coin_small_silver.png-d92dba051416c8947fbe4c21bc704f67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/coin_small_silver.png"
-dest_files=["res://.godot/imported/coin_small_silver.png-b36ce7e099617d48ab6a692f584897fb.ctex"]
+source_file="res://Sprites/Objects/coin_small_silver.png"
+dest_files=["res://.godot/imported/coin_small_silver.png-d92dba051416c8947fbe4c21bc704f67.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

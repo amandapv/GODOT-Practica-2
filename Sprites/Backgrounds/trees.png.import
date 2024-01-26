@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx0tpeqjdxhq4"
-path="res://.godot/imported/trees.png-3d290622bd7353e1ee202792f68180bc.ctex"
+path="res://.godot/imported/trees.png-7e8853258b2fa73fc674cfa01296d4c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Backgrounds/trees.png"
-dest_files=["res://.godot/imported/trees.png-3d290622bd7353e1ee202792f68180bc.ctex"]
+source_file="res://Sprites/Backgrounds/trees.png"
+dest_files=["res://.godot/imported/trees.png-7e8853258b2fa73fc674cfa01296d4c1.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

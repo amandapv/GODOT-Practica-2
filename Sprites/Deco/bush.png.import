@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://x74amgdxrwpm"
-path="res://.godot/imported/bush.png-e75a320265330daff7fccebe022485ef.ctex"
+path="res://.godot/imported/bush.png-472ab525ef6fc623bab649dd919fcfbc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Deco/bush.png"
-dest_files=["res://.godot/imported/bush.png-e75a320265330daff7fccebe022485ef.ctex"]
+source_file="res://Sprites/Deco/bush.png"
+dest_files=["res://.godot/imported/bush.png-472ab525ef6fc623bab649dd919fcfbc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

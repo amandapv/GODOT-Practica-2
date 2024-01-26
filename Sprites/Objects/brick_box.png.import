@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl44i67ulajae"
-path="res://.godot/imported/brick_box.png-ca2719f03b731108d2c9b4a3c51f62b1.ctex"
+path="res://.godot/imported/brick_box.png-9c74c38a874cb9adf36f1aa7fbd92a18.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/brick_box.png"
-dest_files=["res://.godot/imported/brick_box.png-ca2719f03b731108d2c9b4a3c51f62b1.ctex"]
+source_file="res://Sprites/Objects/brick_box.png"
+dest_files=["res://.godot/imported/brick_box.png-9c74c38a874cb9adf36f1aa7fbd92a18.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4d0uxev0vh3j"
-path="res://.godot/imported/tileset_dirt.png-cd646919c9771100d30e7da810bc3603.ctex"
+path="res://.godot/imported/tileset_dirt.png-96c2d38228c78b7889d4e6e42a56d8b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tilesets/tileset_dirt.png"
-dest_files=["res://.godot/imported/tileset_dirt.png-cd646919c9771100d30e7da810bc3603.ctex"]
+source_file="res://Sprites/Tilesets/tileset_dirt.png"
+dest_files=["res://.godot/imported/tileset_dirt.png-96c2d38228c78b7889d4e6e42a56d8b4.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

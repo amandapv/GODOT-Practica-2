@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmoqciw7ovil3"
-path="res://.godot/imported/icicle.png-ca7631a1fe79cd26386dfce7e8856755.ctex"
+path="res://.godot/imported/icicle.png-36931ddb95f69f7d67bfe4ef9afbd6f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/icicle.png"
-dest_files=["res://.godot/imported/icicle.png-ca7631a1fe79cd26386dfce7e8856755.ctex"]
+source_file="res://Sprites/Enemies/icicle.png"
+dest_files=["res://.godot/imported/icicle.png-36931ddb95f69f7d67bfe4ef9afbd6f7.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

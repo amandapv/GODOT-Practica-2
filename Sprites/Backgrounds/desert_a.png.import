@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccr4tqqew5sgf"
-path="res://.godot/imported/desert_a.png-1c24c727a451006aab498382d55bbdc6.ctex"
+path="res://.godot/imported/desert_a.png-0b2d70ae5ccd03d3f2fbe41e23073354.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Backgrounds/desert_a.png"
-dest_files=["res://.godot/imported/desert_a.png-1c24c727a451006aab498382d55bbdc6.ctex"]
+source_file="res://Sprites/Backgrounds/desert_a.png"
+dest_files=["res://.godot/imported/desert_a.png-0b2d70ae5ccd03d3f2fbe41e23073354.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

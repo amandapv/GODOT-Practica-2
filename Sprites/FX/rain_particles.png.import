@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ck3bacu818tdb"
-path="res://.godot/imported/rain_particles.png-400c2f1cb89348d9a896e93ca348337e.ctex"
+path="res://.godot/imported/rain_particles.png-0e850adf8431f0fa78e5813b4a2f1961.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/rain_particles.png"
-dest_files=["res://.godot/imported/rain_particles.png-400c2f1cb89348d9a896e93ca348337e.ctex"]
+source_file="res://Sprites/FX/rain_particles.png"
+dest_files=["res://.godot/imported/rain_particles.png-0e850adf8431f0fa78e5813b4a2f1961.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

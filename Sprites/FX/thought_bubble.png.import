@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bue6jj4co7d2d"
-path="res://.godot/imported/thought_bubble.png-d9d71eefb81a3c4c5da4d5362da40c05.ctex"
+path="res://.godot/imported/thought_bubble.png-208cd078245504e06f59944b7a1344ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/thought_bubble.png"
-dest_files=["res://.godot/imported/thought_bubble.png-d9d71eefb81a3c4c5da4d5362da40c05.ctex"]
+source_file="res://Sprites/FX/thought_bubble.png"
+dest_files=["res://.godot/imported/thought_bubble.png-208cd078245504e06f59944b7a1344ff.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

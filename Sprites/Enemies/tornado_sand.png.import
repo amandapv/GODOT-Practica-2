@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hfy7akn2mgf"
-path="res://.godot/imported/tornado_sand.png-15182723d54c7f46eb350ff7fcbfc649.ctex"
+path="res://.godot/imported/tornado_sand.png-dbd8fc65b9984d2dd965b4481b7a4e2f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/tornado_sand.png"
-dest_files=["res://.godot/imported/tornado_sand.png-15182723d54c7f46eb350ff7fcbfc649.ctex"]
+source_file="res://Sprites/Enemies/tornado_sand.png"
+dest_files=["res://.godot/imported/tornado_sand.png-dbd8fc65b9984d2dd965b4481b7a4e2f.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

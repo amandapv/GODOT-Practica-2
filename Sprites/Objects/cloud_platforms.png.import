@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bscrxxn15oo7i"
-path="res://.godot/imported/cloud_platforms.png-c90d9cd20d205d975834016519ef2765.ctex"
+path="res://.godot/imported/cloud_platforms.png-1557c80295fe34c53b7ab45981c7e2b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/cloud_platforms.png"
-dest_files=["res://.godot/imported/cloud_platforms.png-c90d9cd20d205d975834016519ef2765.ctex"]
+source_file="res://Sprites/Objects/cloud_platforms.png"
+dest_files=["res://.godot/imported/cloud_platforms.png-1557c80295fe34c53b7ab45981c7e2b4.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4qxqq6r5s5ua"
-path="res://.godot/imported/crab.png-b40b79cbc6a468b17861a6974c03405e.ctex"
+path="res://.godot/imported/crab.png-bc48e9c04ca16b891ee8556b5f14594d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/crab.png"
-dest_files=["res://.godot/imported/crab.png-b40b79cbc6a468b17861a6974c03405e.ctex"]
+source_file="res://Sprites/Enemies/crab.png"
+dest_files=["res://.godot/imported/crab.png-bc48e9c04ca16b891ee8556b5f14594d.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

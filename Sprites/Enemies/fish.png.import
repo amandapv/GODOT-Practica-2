@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dunxw2ertevke"
-path="res://.godot/imported/fish.png-fc722d6406509a3b1347d815c8548b3d.ctex"
+path="res://.godot/imported/fish.png-0097c72a7df72f800729b2bc24ffaacb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/fish.png"
-dest_files=["res://.godot/imported/fish.png-fc722d6406509a3b1347d815c8548b3d.ctex"]
+source_file="res://Sprites/Enemies/fish.png"
+dest_files=["res://.godot/imported/fish.png-0097c72a7df72f800729b2bc24ffaacb.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

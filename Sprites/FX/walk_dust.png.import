@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckf20g5320hq6"
-path="res://.godot/imported/walk_dust.png-51a096389765a294059de254fc533175.ctex"
+path="res://.godot/imported/walk_dust.png-5de0d3c15d8b863017c10c2977d869a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/walk_dust.png"
-dest_files=["res://.godot/imported/walk_dust.png-51a096389765a294059de254fc533175.ctex"]
+source_file="res://Sprites/FX/walk_dust.png"
+dest_files=["res://.godot/imported/walk_dust.png-5de0d3c15d8b863017c10c2977d869a3.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

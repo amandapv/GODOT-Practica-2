@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcegcj4jjvxor"
-path="res://.godot/imported/gem.png-88f050110e1df90d6c7ac5b2ad4a320c.ctex"
+path="res://.godot/imported/gem.png-c95cbca386d7ae4f00cc3ed52dc1e7f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/UI/gem.png"
-dest_files=["res://.godot/imported/gem.png-88f050110e1df90d6c7ac5b2ad4a320c.ctex"]
+source_file="res://Sprites/UI/gem.png"
+dest_files=["res://.godot/imported/gem.png-c95cbca386d7ae4f00cc3ed52dc1e7f8.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

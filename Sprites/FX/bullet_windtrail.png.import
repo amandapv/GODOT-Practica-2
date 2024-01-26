@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://befgfqr22826t"
-path="res://.godot/imported/bullet_windtrail.png-c4e7294a0fdb5b1b7332503226905d9e.ctex"
+path="res://.godot/imported/bullet_windtrail.png-130e010bc8479033853457ca2185602e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/bullet_windtrail.png"
-dest_files=["res://.godot/imported/bullet_windtrail.png-c4e7294a0fdb5b1b7332503226905d9e.ctex"]
+source_file="res://Sprites/FX/bullet_windtrail.png"
+dest_files=["res://.godot/imported/bullet_windtrail.png-130e010bc8479033853457ca2185602e.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crupbn50m6qv5"
-path="res://.godot/imported/spikes.png-daf11165518c8adbc422528e1caf22c9.ctex"
+path="res://.godot/imported/spikes.png-c16a215b0e58cc0c6731eda5b354ca0f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/spikes.png"
-dest_files=["res://.godot/imported/spikes.png-daf11165518c8adbc422528e1caf22c9.ctex"]
+source_file="res://Sprites/Enemies/spikes.png"
+dest_files=["res://.godot/imported/spikes.png-c16a215b0e58cc0c6731eda5b354ca0f.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

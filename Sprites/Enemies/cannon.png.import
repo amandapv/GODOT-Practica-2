@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://msgujws7y23f"
-path="res://.godot/imported/cannon.png-89c65c63314789e809e4386045656e8a.ctex"
+path="res://.godot/imported/cannon.png-99a2402de2620c7473e59ae51984a37c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/cannon.png"
-dest_files=["res://.godot/imported/cannon.png-89c65c63314789e809e4386045656e8a.ctex"]
+source_file="res://Sprites/Enemies/cannon.png"
+dest_files=["res://.godot/imported/cannon.png-99a2402de2620c7473e59ae51984a37c.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

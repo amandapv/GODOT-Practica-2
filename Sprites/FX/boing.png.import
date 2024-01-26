@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmrun6gufc1ys"
-path="res://.godot/imported/boing.png-a156f3b97aaa099aa4dd530dbc1b3cad.ctex"
+path="res://.godot/imported/boing.png-0a454d496937af369e88bf374fda7a7e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/boing.png"
-dest_files=["res://.godot/imported/boing.png-a156f3b97aaa099aa4dd530dbc1b3cad.ctex"]
+source_file="res://Sprites/FX/boing.png"
+dest_files=["res://.godot/imported/boing.png-0a454d496937af369e88bf374fda7a7e.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

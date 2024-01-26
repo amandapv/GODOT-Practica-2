@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cj761w0wrh6se"
-path="res://.godot/imported/rock.png-e5cec491ba52233a4e7569b50519a371.ctex"
+path="res://.godot/imported/rock.png-100266e694be54681cdb4bdf41455ea0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Deco/rock.png"
-dest_files=["res://.godot/imported/rock.png-e5cec491ba52233a4e7569b50519a371.ctex"]
+source_file="res://Sprites/Deco/rock.png"
+dest_files=["res://.godot/imported/rock.png-100266e694be54681cdb4bdf41455ea0.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

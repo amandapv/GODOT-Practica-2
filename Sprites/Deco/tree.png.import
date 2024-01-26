@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn1aqxidsiat6"
-path="res://.godot/imported/tree.png-6125bf38c906e0ca869d7f27344b75ea.ctex"
+path="res://.godot/imported/tree.png-9d6705e92094790b2c0a9c652b85c0f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Deco/tree.png"
-dest_files=["res://.godot/imported/tree.png-6125bf38c906e0ca869d7f27344b75ea.ctex"]
+source_file="res://Sprites/Deco/tree.png"
+dest_files=["res://.godot/imported/tree.png-9d6705e92094790b2c0a9c652b85c0f7.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

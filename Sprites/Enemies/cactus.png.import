@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bja5ha4qaubxx"
-path="res://.godot/imported/cactus.png-e54bef2c417c53db05f6b5504bbe2668.ctex"
+path="res://.godot/imported/cactus.png-3dc9091e16a152636d0dc1537a3ea808.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/cactus.png"
-dest_files=["res://.godot/imported/cactus.png-e54bef2c417c53db05f6b5504bbe2668.ctex"]
+source_file="res://Sprites/Enemies/cactus.png"
+dest_files=["res://.godot/imported/cactus.png-3dc9091e16a152636d0dc1537a3ea808.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

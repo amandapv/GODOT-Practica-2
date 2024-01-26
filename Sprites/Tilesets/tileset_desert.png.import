@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://creu3fe176pqh"
-path="res://.godot/imported/tileset_desert.png-4cb3e24d74aceb0ea9ad4e3f950a43bb.ctex"
+path="res://.godot/imported/tileset_desert.png-8f899a37f06c812cedb3340352c6bda2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tilesets/tileset_desert.png"
-dest_files=["res://.godot/imported/tileset_desert.png-4cb3e24d74aceb0ea9ad4e3f950a43bb.ctex"]
+source_file="res://Sprites/Tilesets/tileset_desert.png"
+dest_files=["res://.godot/imported/tileset_desert.png-8f899a37f06c812cedb3340352c6bda2.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

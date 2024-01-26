@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dd2qmjyn4dyy8"
-path="res://.godot/imported/bird.png-81b784ef44d910d5196e0ee1ef494004.ctex"
+path="res://.godot/imported/bird.png-d2b9c133dadf7e5ad6ac6402c81cf9ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/bird.png"
-dest_files=["res://.godot/imported/bird.png-81b784ef44d910d5196e0ee1ef494004.ctex"]
+source_file="res://Sprites/Enemies/bird.png"
+dest_files=["res://.godot/imported/bird.png-d2b9c133dadf7e5ad6ac6402c81cf9ea.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

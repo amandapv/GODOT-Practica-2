@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lydigk2wkpmb"
-path="res://.godot/imported/bear_polar.png-c8128cc4b5399c4f7e3e8926f569f09d.ctex"
+path="res://.godot/imported/bear_polar.png-9acf285f6c504d1770dd2564c2e6871a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/bear_polar.png"
-dest_files=["res://.godot/imported/bear_polar.png-c8128cc4b5399c4f7e3e8926f569f09d.ctex"]
+source_file="res://Sprites/Enemies/bear_polar.png"
+dest_files=["res://.godot/imported/bear_polar.png-9acf285f6c504d1770dd2564c2e6871a.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

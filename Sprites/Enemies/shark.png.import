@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dohmo3hxabibu"
-path="res://.godot/imported/shark.png-f06bd463d531d9a240fb89a976fb34d1.ctex"
+path="res://.godot/imported/shark.png-cc75681cc8b02dce4dbeaad0bf981664.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/shark.png"
-dest_files=["res://.godot/imported/shark.png-f06bd463d531d9a240fb89a976fb34d1.ctex"]
+source_file="res://Sprites/Enemies/shark.png"
+dest_files=["res://.godot/imported/shark.png-cc75681cc8b02dce4dbeaad0bf981664.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

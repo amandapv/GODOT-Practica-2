@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://npjj0ga2j1re"
-path="res://.godot/imported/penguin.png-849cb18d6855bbfa30d88f22f261a8da.ctex"
+path="res://.godot/imported/penguin.png-603d1e2f540e735e4cc694009fc68670.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/penguin.png"
-dest_files=["res://.godot/imported/penguin.png-849cb18d6855bbfa30d88f22f261a8da.ctex"]
+source_file="res://Sprites/Enemies/penguin.png"
+dest_files=["res://.godot/imported/penguin.png-603d1e2f540e735e4cc694009fc68670.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

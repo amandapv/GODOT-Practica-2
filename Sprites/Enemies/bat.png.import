@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://l7kvxm11trx2"
-path="res://.godot/imported/bat.png-047a0505e89a195aec6c6a33025ef110.ctex"
+path="res://.godot/imported/bat.png-a20676da2a6834d0c5a79bb8ab59d827.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Enemies/bat.png"
-dest_files=["res://.godot/imported/bat.png-047a0505e89a195aec6c6a33025ef110.ctex"]
+source_file="res://Sprites/Enemies/bat.png"
+dest_files=["res://.godot/imported/bat.png-a20676da2a6834d0c5a79bb8ab59d827.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

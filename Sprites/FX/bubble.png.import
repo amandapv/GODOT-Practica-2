@@ -3,19 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh1dqe857tdhi"
-path="res://.godot/imported/bubble.png-4228af76eedcbf1d6396d54d26032365.ctex"
+path="res://.godot/imported/bubble.png-f8947393d2152569f96632738f8d1fac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FX/bubble.png"
-dest_files=["res://.godot/imported/bubble.png-4228af76eedcbf1d6396d54d26032365.ctex"]
+source_file="res://Sprites/FX/bubble.png"
+dest_files=["res://.godot/imported/bubble.png-f8947393d2152569f96632738f8d1fac.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
